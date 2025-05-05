@@ -6,3 +6,5 @@ The drone is controlled by a Wii nunchuck wirelessly, using a HC-12 RF communica
 An MPU6050 6-axis gyro+accelerometer sensor is used to stabilise the drone. I2C allows the ESP32 to talk to the sensor.
 
 This project is still ongoing.
+
+![Thumbnail](https://github.com/Manby/drone/blob/main/thumbnail.jpg?raw=true)
